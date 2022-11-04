@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecureNotes</string>
+    <string-array name="questions">
+        <item>What was your first pet?</item>
+        <item>What was your first school?</item>
+        <item>What is your favourite sport?</item>
+        <item>What is your favourite book?</item>
+    </string-array>
+</resources>
